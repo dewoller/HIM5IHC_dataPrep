@@ -1,0 +1,11 @@
+*.mdb
+*.accdb
+*.tgz
+*.gz
+*/*admission*
+HIM5IHC_full.sql
+HIM5IHC_sample.sql
+*.un~
+part1_initialUpload/done/admission.txt
+part1_initialUpload/done/admission_diagnosis.txt
+part1_initialUpload/done/admission_procedure.txt

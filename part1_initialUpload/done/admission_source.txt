@@ -1,0 +1,9 @@
+admsource	cd_desc	start_dt	end_dt
+A	Transfer from mental health residential facility	07/01/12 00:00:00	
+B	Transfer from Transition Care bed based program	07/01/12 00:00:00	
+H	Admission from private residence	07/01/12 00:00:00	
+K	Posthumous Organ Procurement	07/01/12 00:00:00	
+N	Transfer from aged care residential facility	07/01/12 00:00:00	
+S	Statistical Admission	07/01/12 00:00:00	
+T	Tfer from acute/ext care/rehab/geriatric	07/01/12 00:00:00	
+Y	Birth in this hospital (newborns only)	07/01/12 00:00:00	

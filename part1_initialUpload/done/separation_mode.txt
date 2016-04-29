@@ -1,0 +1,10 @@
+sepmode	cd_desc	start_dt	end_dt	national_value
+A	Separation and transfer to mental health residential facility	07/01/12 00:00:00		3
+B	Separation and transfer to Transition Care bed based program	07/01/12 00:00:00		4
+D	Death	07/01/12 00:00:00		8
+G	Posthumous Organ Procurement	07/01/12 00:00:00		8
+H	Separation to private residence/accommodation	07/01/12 00:00:00		9
+N	Separation and transfer to aged care residential facility	07/01/12 00:00:00		2
+S	Statistical Separation	07/01/12 00:00:00		5
+T	Separation and transfer to acute hospital/extended care	07/01/12 00:00:00		1
+Z	Left against medical advice	07/01/12 00:00:00		6

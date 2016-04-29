@@ -1,0 +1,9 @@
+admtype	cd_desc	start_dt	end_dt
+C	Emergency Admission from ED at this hosp	07/01/12 00:00:00	
+K	Posthumous Organ Procurement	07/01/12 00:00:00	
+L	Planned Adm - waiting list	07/01/12 00:00:00	
+M	Maternity	07/01/12 00:00:00	
+O	Other emergency admission	07/01/12 00:00:00	
+S	Not applicable (statistical admission)	07/01/12 00:00:00	
+X	Other planned admission (same day or overnight)	07/01/12 00:00:00	
+Y	Newborn	07/01/12 00:00:00	

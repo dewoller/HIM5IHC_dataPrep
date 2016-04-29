@@ -1,0 +1,13 @@
+drop table hospital;
+create table hospital (
+hospital_id varchar(10) primary key,
+hospital varchar(100) ,
+oct_dec_2014 INTEGER,
+jan_mar_2015 INTEGER,
+apr_jun_2015 INTEGER,
+jul_sep_2015 INTEGER,
+oct_dec_2015 INTEGER,
+total INTEGER,
+proportion REAL );
+
+
